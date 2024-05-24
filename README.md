@@ -1,2 +1,2 @@
 # hdoj
-Solutions to accepted problems on Hangzhou Dianzi University Online Judge.
+Source code of accepted problems on HDOJ by yanghe7744.
